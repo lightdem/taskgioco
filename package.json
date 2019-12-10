@@ -1,0 +1,19 @@
+{
+  "name": "taskgioco",
+  "version": "1.0.0",
+  "description": "Questa è un app che gestisce i task utilizza la ludicizzazione per incoraggiarvi nelle vostre attività",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Errore: nessun test passato\" && exit 1"
+  },
+  "author": "LinuxPro Staff",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "electron": "^7.1.3",
+    "electron-reload": "^1.5.0",
+    "electron-store": "^5.1.0",
+    "spectre": "0.0.1",
+    "spectre.css": "^0.5.8"
+  }
+}
